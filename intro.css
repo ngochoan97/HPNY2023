@@ -1759,7 +1759,7 @@ body{
 .box-content .right .content .title{
     font-family: 'Dancing Script', cursive;
     width: 150px;
-    height: 40px;
+    height: 80px;
     display: flex;
     justify-content: center;
     margin-top: 10px;
